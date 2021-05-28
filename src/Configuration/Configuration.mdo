@@ -17,7 +17,7 @@
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
   <vendor>Учебный Центр 1С №1</vendor>
-  <version>1.1.1.1</version>
+  <version>1.1.1.5</version>
   <requiredMobileApplicationPermissions>
     <permission>AllowOSBackup</permission>
     <use>true</use>
